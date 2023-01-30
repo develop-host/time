@@ -188,3 +188,21 @@ body {
 #cronometro-nav:hover {
     padding: 12px;
 }
+
+.timer{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+.timer a{
+    background-color: white;
+    padding: 12px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.timer a:hover{
+    padding: 13px;
+    animation-delay: 1s;
+}
